@@ -1,2 +1,2 @@
 # Stenography
-Stenography ile şifreleme ve çözme programı
+C++ ile Stenography
